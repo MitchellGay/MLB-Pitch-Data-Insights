@@ -15,3 +15,17 @@ I then used this data to help me understand how the spin rate of different pitch
 - Cleans and merges large datasets using pandas.
   
 - Generates visualizations to highlight key performance trends.
+
+## Technologies Used
+
+- Python
+
+- Pandas
+
+- Requests
+
+- BeautifulSoup
+
+- matplotlib
+
+- CSV, JSON
