@@ -6,7 +6,7 @@ I then used this data to help me understand how the spin rate of different pitch
 
 ## Features
 
-- Scrapeed and imported MLB pitcher data from multiple sources (API, CSV, web).
+- Scraped and imported MLB pitcher data from multiple sources (API, CSV, web).
   
 - Uses BeautifulSoup to extract stats from ESPN.
   
