@@ -2,7 +2,7 @@
 
 For this project I used a csv file, an API, and BeautifulSoup to collect a large amount of data based around statistics for MLB pitchers.
 
-I then used this data to help me understand how the spin rate of different correlated with that pitchers win rates and strikeout rates.
+I then used this data to help me understand how the spin rate of different pitchers correlated with that pitchers win rates and strikeout rates.
 
 ## Features
 
